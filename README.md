@@ -7,13 +7,19 @@ Classifiers Implemented and their accuracy:
 2. Bins Algorithm with SVM – 94.6%
 3. Bins Algorithm with Random Forest–96.3%
 
-Technologies: Machine Learning, Deep Learning, Computer Vision, Python, Jupyter Notebook
-
-
 Blog Post: https://shrutisureshan.medium.com/comparative-analysis-of-bins-method-and-convolutional-neural-network-for-malaria-detection-535e2be51125
 
-Demo: https://www.youtube.com/watch?v=LhgFSlM3Mac
+## Technologies
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Python
+- Jupyter Notebook
 
+
+## Demo
+
+Link: https://www.youtube.com/watch?v=LhgFSlM3Mac
 
 
 https://user-images.githubusercontent.com/67042828/147324810-9559e1cb-ab6b-4b1e-8785-b0a6e503fc9d.mp4
