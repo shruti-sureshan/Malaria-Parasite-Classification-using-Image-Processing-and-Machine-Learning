@@ -18,3 +18,22 @@ Demo: https://www.youtube.com/watch?v=LhgFSlM3Mac
 
 https://user-images.githubusercontent.com/67042828/147324810-9559e1cb-ab6b-4b1e-8785-b0a6e503fc9d.mp4
 
+## Local Installation
+
+1. Clone the Repo by going to your local Git Client and pushing in the command: 
+
+```sh
+https://github.com/HarshCasper/Malaria-Detection.git
+```
+
+2. Install the Packages: 
+```sh
+pip install -r requirements.txt
+```
+
+3. At last, push in the command:
+```sh
+python app.py
+```
+
+4. Go to ` http://127.0.0.1:5000/` and your application is ready.
