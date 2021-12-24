@@ -12,8 +12,9 @@ Technologies: Machine Learning, Deep Learning, Computer Vision, Python, Jupyter 
 
 Blog Post: https://shrutisureshan.medium.com/comparative-analysis-of-bins-method-and-convolutional-neural-network-for-malaria-detection-535e2be51125
 
-Demo:  https://www.youtube.com/watch?v=pE8fv9BBQ2Q
+Demo: https://youtu.be/LhgFSlM3Mac
 
-https://user-images.githubusercontent.com/67042828/123654289-8fb3bc80-d84b-11eb-944f-68718b1cf01d.mp4
 
+
+https://user-images.githubusercontent.com/67042828/147324810-9559e1cb-ab6b-4b1e-8785-b0a6e503fc9d.mp4
 
