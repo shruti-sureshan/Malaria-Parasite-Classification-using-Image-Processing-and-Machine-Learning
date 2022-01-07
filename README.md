@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/67042828/147324810-9559e1cb-ab6b-4b1e-
 1. Clone the Repo by going to your local Git Client and pushing in the command: 
 
 ```sh
-https://github.com/HarshCasper/Malaria-Detection.git
+https://github.com/shruti-sureshan/Malaria-Parasite-Classification-using-Image-Processing-and-Machine-Learning.git
 ```
 
 2. Install the Packages: 
