@@ -1,0 +1,35 @@
+{% extends "base.html" %} {% block content %}
+
+<p style="text-align:justify">
+This research project is a comparative analysis of Bins approach and Convolutional Neural Network on Malaria Dataset where our first approach focuses on Image Processing techniques like Pre-processing, Segmentation using Otsu’s Segmentation and Watershed Segmentation Algorithm, and extracted Statistical features using the color moments, Texture features using GLCM Matrix, and Color features using the Bins Algorithm. These images were then classified using ML classification algorithms like Random Forest and Linear SVM. Our second approach focuses on Convolutional Neural Networks which helps analyze and find patterns in an image for Malaria detection.
+</p>
+
+<h5>Please upload image</h5>
+
+<div>
+    <form id="upload-file" method="post" enctype="multipart/form-data">
+        <label for="imageUpload" class="upload-label">
+            Browse
+        </label>
+        <input type="file" name="file" id="imageUpload" accept=".png, .jpg, .jpeg">
+    </form>
+
+    <div class="image-section" style="display:none;">
+        <div class="img-preview">
+            <div id="imagePreview">
+            </div>
+        </div>
+        <div>
+            <button type="button" class="btn btn-secondary btn-lg " id="btn-predict">Predict</button>
+        </div>
+    </div>
+
+    <div class="loader" style="display:none;"></div>
+
+    <h5 id="result">
+        <span> </span>
+    </h5>
+
+</div>
+
+{% endblock %}
