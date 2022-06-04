@@ -14,7 +14,6 @@ Blog Post: https://shrutisureshan.medium.com/comparative-analysis-of-bins-method
 - Deep Learning
 - Computer Vision
 - Python
-- Jupyter Notebook
 
 
 ## Demo
